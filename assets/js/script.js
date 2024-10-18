@@ -5,7 +5,7 @@
 
 
 function downloadCV() {
-  const cvFileName = 'cv.pdf'; // Replace with the actual file name
+  const cvFileName = 'Cv.pdf'; // Replace with the actual file name
   const cvFilePath = 'assets/' + cvFileName; // Assuming the CV is in the assets folder
 
   const link = document.createElement('a');
